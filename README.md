@@ -1,4 +1,5 @@
 Traffic Light Controller - FPGA (VHDL)
+
 This project implements a Finite State Machine (FSM) to control a four-way junction traffic light system using VHDL. The design is deployed on the Nexys 4 DDR FPGA board.
 
 Implementation
