@@ -17,5 +17,5 @@ Hardware & Tools
 
 FPGA Board: Nexys 4 DDR,
 HDL Language: VHDL,
-Development Environment: Vivado
+Development Environment: Vivado.
 
